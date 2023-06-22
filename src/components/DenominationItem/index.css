@@ -1,0 +1,17 @@
+.button {
+  border-color: #d4d2db;
+  background-color: #585076;
+  color: #c4c4c4;
+  border-radius: 3px;
+  width: 150px;
+  height: 30px;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.buttons-container {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+}
